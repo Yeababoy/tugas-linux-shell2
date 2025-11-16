@@ -8,8 +8,11 @@ Script `src/main.sh` digunakan untuk menghitung ukuran folder project ini secara
 ## Struktur Folder
 project_Sistem_Operasi_B/
 ├── src/ # berisi script shell (main.sh)
+
 ├── data/ # hasil output dari script (sample.txt)
+
 ├── doc/ # dokumentasi (jika diperlukan)
+
 └── README.md # file penjelasan project
 
 
